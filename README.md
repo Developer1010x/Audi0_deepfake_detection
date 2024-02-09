@@ -34,7 +34,7 @@ Getting Started
 
 Clone the repository:
 bash
-git clone https://github.com/your-username/audio-classification.git
+git clone https:(https://github.com/Developer1010x/Audi0_deepfake_detection.git)
 cd audio-classification
 Mount Google Drive if using Colab:
 python
